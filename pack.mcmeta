@@ -1,0 +1,16 @@
+{
+    "pack": {
+    "min_format": 84,
+    "max_format": 84,
+        "description": "\u00A72Panoramas for \u00A7a26.1-26.1\u00A7r\n\u00A7b- By Bandido\u00A7f, \u00A7eBased on Vanilla Tweeks"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "darkui_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            }
+        ]
+    }
+}

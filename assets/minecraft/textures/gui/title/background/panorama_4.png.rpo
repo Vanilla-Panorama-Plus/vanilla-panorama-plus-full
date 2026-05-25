@@ -1,0 +1,19 @@
+{
+    condition: "(vanillaPanoramaPlus.version.v26_1 & vanillaPanoramaPlus.shaderpack.complementary & vanillaPanoramaPlus.resourcepack.vanilla) | (vanillaPanoramaPlus.version.auto & vanillaPanoramaPlus.shaderpack.complementary & vanillaPanoramaPlus.resourcepack.vanilla & version('minecraft', '>=26.1') & version('minecraft', '<=26.1.2'))",
+    fallback: [
+      "assets/panoramas/26.1-bsl-barebones/panorama_4.png",
+      "assets/panoramas/26.1-bsl-faitful/panorama_4.png",
+      "assets/panoramas/26.1-bsl-vanilla/panorama_4.png",
+      "assets/panoramas/26.1-complementary-barebones/panorama_4.png",
+      "assets/panoramas/26.1-complementary-faitful/panorama_4.png",
+      "assets/panoramas/26.1-mignature-barebones/panorama_4.png",
+      "assets/panoramas/26.1-mignature-faitful/panorama_4.png",
+      "assets/panoramas/26.1-mignature-vanilla/panorama_4.png",
+      "assets/panoramas/26.1-solas-barebones/panorama_4.png",
+      "assets/panoramas/26.1-solas-faitful/panorama_4.png",
+      "assets/panoramas/26.1-solas-vanilla/panorama_4.png",
+      "assets/panoramas/26.1-vanilla-barebones/panorama_4.png",
+      "assets/panoramas/26.1-vanilla-faitful/panorama_4.png",
+      "assets/panoramas/26.1-vanilla-vanilla/panorama_4.png"
+    ]
+}

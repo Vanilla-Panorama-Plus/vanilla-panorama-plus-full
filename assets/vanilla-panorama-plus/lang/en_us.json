@@ -1,0 +1,20 @@
+{
+    //Title and Other
+    "rpo.vanillaPanoramaPlus": "Vanilla Panorama +",
+    //Minercraft Version
+    "rpo.vanillaPanoramaPlus.version": "Panorama's Minecraft Version",
+    "rpo.vanillaPanoramaPlus.version.auto": "Auto",
+    "rpo.vanillaPanoramaPlus.version.v26_1": "26.1",
+    //Shders Pack
+    "rpo.vanillaPanoramaPlus.shaderpack": "Panorama's Shader Pack",
+    "rpo.vanillaPanoramaPlus.shaderpack.complementary": "Complementary",
+    "rpo.vanillaPanoramaPlus.shaderpack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlus.shaderpack.bsl": "BSL",
+    "rpo.vanillaPanoramaPlus.shaderpack.solas": "Solas",
+    "rpo.vanillaPanoramaPlus.shaderpack.mignature": "Mignature",
+    //Resource Pack
+    "rpo.vanillaPanoramaPlus.resourcepack": "Panorama's Resource Pack",
+    "rpo.vanillaPanoramaPlus.resourcepack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlus.resourcepack.barebones": "Barebones",
+    "rpo.vanillaPanoramaPlus.resourcepack.faitful": "Faitful"
+}
