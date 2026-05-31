@@ -3,7 +3,7 @@
 As of 26.1.2 **_Vanilla Panorama +_**, has [Respackopt](https://modrinth.com/mod/respackopts) support. So these are all of the Supported Resource Packs:
 [Bare Bones](https://modrinth.com/resourcepack/bare-bones), 
 [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x), 
-an Supported Shaders: [BSL Shaders](https://modrinth.com/shader/bsl-shaders),
+and Supported Shaders: [BSL Shaders](https://modrinth.com/shader/bsl-shaders),
 [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) + [EuphoriaPatches](https://modrinth.com/mod/euphoria-patches),
 [Solas Shader](https://modrinth.com/shader/solas-shader),
 [Miniature Shader](https://modrinth.com/shader/miniature-shader).
