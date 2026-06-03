@@ -1,3 +1,9 @@
 {
     condition: "vanillaPanoramaPlus.shaderpack.#shaderpack & vanillaPanoramaPlus.resourcepack.#resourcepack & (vanillaPanoramaPlus.version.v#version | (vanillaPanoramaPlus.version.auto & version('minecraft', '>=#versionmin') & version('minecraft', '<=#versionmax')))"
 }
+
+{
+    condition: "vanillaPanoramaPlus.shaderpack.#shaderpack & vanillaPanoramaPlus.resourcepack.#resourcepack & vanillaPanoramaPlus.version.v#version | vanillaPanoramaPlus.version.auto & version('minecraft', '>=#versionmin') & version('minecraft', '<=#versionmax')"
+}
+
+Pack  VerFix | AutoVer
