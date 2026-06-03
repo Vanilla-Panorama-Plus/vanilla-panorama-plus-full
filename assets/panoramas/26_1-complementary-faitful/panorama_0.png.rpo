@@ -1,0 +1,3 @@
+{
+    condition: "vanillaPanoramaPlus.shaderpack.complementary & vanillaPanoramaPlus.resourcepack.faitful & (vanillaPanoramaPlus.version.v26_1 | (vanillaPanoramaPlus.version.auto & version('minecraft', '>=26.1') & version('minecraft', '<=26.1.2')))"
+}

@@ -1,5 +1,5 @@
 {
-    condition: "(vanillaPanoramaPlus.version.v26_1 & vanillaPanoramaPlus.shaderpack.complementary & vanillaPanoramaPlus.resourcepack.vanilla) | (vanillaPanoramaPlus.version.auto & vanillaPanoramaPlus.shaderpack.complementary & vanillaPanoramaPlus.resourcepack.vanilla & version('minecraft', '>=26.1') & version('minecraft', '<=26.1.2'))",
+    condition: "vanillaPanoramaPlus.shaderpack.complementary & vanillaPanoramaPlus.resourcepack.vanilla & (vanillaPanoramaPlus.version.v26_1 | (vanillaPanoramaPlus.version.auto & version('minecraft', '>=26.1') & version('minecraft', '<=26.1.2')))",
     fallback: [
       "assets/panoramas/26.1-bsl-barebones/panorama_4.png",
       "assets/panoramas/26.1-bsl-faitful/panorama_4.png",
