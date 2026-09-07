@@ -1,3 +1,3 @@
 {
-    condition: "vanillaPanoramaPlus.version.v1_21_11 & vanillaPanoramaPlus.shaderpack.bsl & vanillaPanoramaPlus.resourcepack.faitful"
+    condition: "vanillaPanoramaPlusFull.version.v1_21_11 & vanillaPanoramaPlusFull.shaderpack.bsl & vanillaPanoramaPlusFull.resourcepack.faitful"
 }

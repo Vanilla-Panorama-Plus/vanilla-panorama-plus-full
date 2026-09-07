@@ -1,5 +1,5 @@
 {
-    id: "vanillaPanoramaPlus",
+    id: "vanillaPanoramaPlusFull",
     version: 13,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {

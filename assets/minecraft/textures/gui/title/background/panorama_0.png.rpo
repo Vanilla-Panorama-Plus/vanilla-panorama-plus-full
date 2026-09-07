@@ -1,5 +1,5 @@
 {
-    condition: "vanillaPanoramaPlus.version.v26_2 & vanillaPanoramaPlus.shaderpack.complementary & vanillaPanoramaPlus.resourcepack.vanilla",
+    condition: "vanillaPanoramaPlusFull.version.v26_2 & vanillaPanoramaPlusFull.shaderpack.complementary & vanillaPanoramaPlusFull.resourcepack.vanilla",
     fallback: [
       "assets/panoramas/1.21.11/1.21.11-bsl-barebones/panorama_0.png",
       "assets/panoramas/1.21.11/1.21.11-bsl-faitful/panorama_0.png",

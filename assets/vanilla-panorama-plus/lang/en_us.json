@@ -1,22 +1,22 @@
 {
     
-    "rpo.vanillaPanoramaPlus": "Vanilla Panorama +",
+    "rpo.vanillaPanoramaPlusFull": "Vanilla Panorama +",
 
-    "rpo.vanillaPanoramaPlus.version": "Panorama's Minecraft Version",
-    "rpo.vanillaPanoramaPlus.version.v26_2": "26.2",
-    "rpo.vanillaPanoramaPlus.version.v26_1": "26.1",
-    "rpo.vanillaPanoramaPlus.version.v1_21_11": "1.21.11",
+    "rpo.vanillaPanoramaPlusFull.version": "Panorama's Minecraft Version",
+    "rpo.vanillaPanoramaPlusFull.version.v26_2": "26.2",
+    "rpo.vanillaPanoramaPlusFull.version.v26_1": "26.1",
+    "rpo.vanillaPanoramaPlusFull.version.v1_21_11": "1.21.11",
     
-    "rpo.vanillaPanoramaPlus.shaderpack": "Panorama's Shader Pack",
-    "rpo.vanillaPanoramaPlus.shaderpack.complementary": "Complementary",
-    "rpo.vanillaPanoramaPlus.shaderpack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlus.shaderpack.bsl": "BSL",
-    "rpo.vanillaPanoramaPlus.shaderpack.solas": "Solas",
-    "rpo.vanillaPanoramaPlus.shaderpack.mignature": "Mignature",
-    "rpo.vanillaPanoramaPlus.shaderpack.vibrant": "Visual Vibrance",
+    "rpo.vanillaPanoramaPlusFull.shaderpack": "Panorama's Shader Pack",
+    "rpo.vanillaPanoramaPlusFull.shaderpack.complementary": "Complementary",
+    "rpo.vanillaPanoramaPlusFull.shaderpack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusFull.shaderpack.bsl": "BSL",
+    "rpo.vanillaPanoramaPlusFull.shaderpack.solas": "Solas",
+    "rpo.vanillaPanoramaPlusFull.shaderpack.mignature": "Mignature",
+    "rpo.vanillaPanoramaPlusFull.shaderpack.vibrant": "Visual Vibrance",
     
-    "rpo.vanillaPanoramaPlus.resourcepack": "Panorama's Resource Pack",
-    "rpo.vanillaPanoramaPlus.resourcepack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlus.resourcepack.barebones": "Barebones",
-    "rpo.vanillaPanoramaPlus.resourcepack.faitful": "Faitful"
+    "rpo.vanillaPanoramaPlusFull.resourcepack": "Panorama's Resource Pack",
+    "rpo.vanillaPanoramaPlusFull.resourcepack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusFull.resourcepack.barebones": "Barebones",
+    "rpo.vanillaPanoramaPlusFull.resourcepack.faitful": "Faitful"
 }

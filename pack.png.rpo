@@ -1,0 +1,7 @@
+{
+    condition: "vanillaPanoramaPlusFull.version.v26_2",
+    fallback: [
+      "assets/panoramas/26.1/pack.png",
+      "assets/panoramas/1.21.11/pack.png"
+    ]
+}
